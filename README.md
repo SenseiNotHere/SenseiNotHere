@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Jonas Pains! 👋  
+I'm a high school student from New Jersey (Class of 2026), passionate about programming and robotics. I love tackling challenges and pushing the boundaries of what I can build, whether it's software or hardware.
 
-<!--
-**SenseiNotHere/SenseiNotHere** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Currently, I'm a proud member of **FRC Team 1811 FRESH**, where I work as a programmer, creating solutions for our robot and learning more about the world of robotics each day.
 
-Here are some ideas to get you started:
+### 🚀 Skills & Technologies:
+- **Languages**: Python
+- **Frameworks/Tools**: Git, VS Code, PyCharm
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 Currently Learning:
+- Advanced robotics and autonomous systems
+
+### 📝 Some of My Projects:
+- **FRC 1811 FRESH Robot Code**: [2025 Swerve](https://github.com/SenseiNotHere/2025Swerve)]  
+  A collection of the code I’ve worked on for our FRC robot, including autonomous navigation and sensor integration.
+
+### 📫 How to reach me:
+- Email: painsjonas@icloud.com
