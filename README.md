@@ -17,3 +17,5 @@ Currently, I'm a proud member of **FRC Team 1811 FRESH**, where I work as a prog
 
 ### 📫 How to reach me:
 - Email: painsjonas@icloud.com
+- Instagram: [@le_jonaspains](instagram.com/le_jonaspains)
+- Discord: SenseiNotHere
