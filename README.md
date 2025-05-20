@@ -18,6 +18,6 @@ Currently, I'm a proud member of **FRC Team 1811 FRESH**, where I work as a prog
   A collection of the code I’ve worked on for our FRC robot, including autonomous navigation and sensor integration.
 
 ### 📫 How to reach me:
-- Email: [painsjonas@icloud.com](painsjonas@icloud.com)
+- Email: [painsjonas@icloud.com](mailto:painsjonas@icloud.com)
 - Instagram: [@le_jonaspains](instagram.com/le_jonaspains)
 - Discord: [SenseiNotHere](discord.com/users/961762463823593523)
