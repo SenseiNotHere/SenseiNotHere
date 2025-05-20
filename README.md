@@ -5,7 +5,7 @@ Currently, I'm a proud member of **FRC Team 1811 FRESH**, where I work as a prog
 
 ### 🚀 Skills & Technologies:
 - **Languages**: Python, HTML, CSS, JavaScript
-- **Frameworks/Tools**: Git, VS Code, PyCharm
+- **Frameworks/Tools**: Git, VS Code, PyCharm, WebStorm, JetBrains Fleet
 
 ### 🌱 Currently Learning:
 - Advanced robotics and autonomous systems
