@@ -4,7 +4,7 @@ I'm a high school student from New Jersey (Class of 2026), passionate about prog
 Currently, I'm a proud member of **FRC Team 1811 FRESH**, where I work as a programmer, creating solutions for our robot and learning more about the world of robotics each day.
 
 ### 🚀 Skills & Technologies:
-- **Languages**: Python
+- **Languages**: Python, HTML, CSS, JavaScript
 - **Frameworks/Tools**: Git, VS Code, PyCharm
 
 ### 🌱 Currently Learning:
