@@ -13,9 +13,9 @@ Currently, I'm a proud member of **FRC Team 1811 FRESH**, where I work as a prog
 
 ### 📝 Some of My Projects:
 - **2025 FRC 1811 FRESH Robot Code**: [2025 Swerve](https://github.com/SenseiNotHere/2025Swerve)
--  **FRC 1811 Website (Closed source - for now)**
-
   A collection of the code I’ve worked on for our FRC robot, including autonomous navigation and sensor integration.
+-  **FRC 1811 Website (Closed source - for now)**
+  FRC 1811 Website where you'll see announcements, crew, sponsors, and more!
 
 ### 📫 How to reach me:
 - Email: [painsjonas@icloud.com](mailto:painsjonas@icloud.com)
