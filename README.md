@@ -13,7 +13,7 @@ Currently, I'm a proud member of **FRC Team 1811 FRESH**, where I work as a prog
 
 ### 📝 Some of My Projects:
 - **2025 FRC 1811 FRESH Robot Code**: [2025 Swerve](https://github.com/SenseiNotHere/2025Swerve)
-  A collection of the code I’ve worked on for our FRC robot, including autonomous navigation and sensor integration.
+  A collection of the code I’ve worked on for the FRC robot we used for the 2025 REEFSCAPE season.
 -  **FRC 1811 Website (Closed source - for now)**
   FRC 1811 Website where you'll see announcements, crew, sponsors, and more!
 
