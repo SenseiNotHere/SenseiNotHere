@@ -21,3 +21,10 @@ Currently, I'm a proud member of **FRC Team 1811 FRESH**, where I work as a prog
 - Email: [painsjonas@icloud.com](mailto:painsjonas@icloud.com)
 - Instagram: [@le_jonaspains](instagram.com/le_jonaspains)
 - Discord: [SenseiNotHere](discord.com/users/961762463823593523)
+
+### 🧑 About Me
+- Planning on going to NJIT or Pitt for Higher Education.
+- If accepted, will be working in one (or all) of these fields: Software Development, Web Development, Software Engineering, Game Design, Robotics Engineering, Mobile App Development. I KNOW RIGHT! A LOT.
+- February 8 is my birthday!
+- Favorite artist is Ariana Grande
+- Part of the LGBT community
