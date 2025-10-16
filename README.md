@@ -6,7 +6,7 @@ Currently, I'm a proud member of **FRC Team 1811 FRESH**, where I'm the programm
 ---
 
 ### 🚀 Skills & Technologies
-- **Languages**: Python, HTML, CSS, JavaScript  
+- **Languages**: Python, JavaScript, Java  
 - **Frameworks/Tools**: Git, VS Code, PyCharm, WebStorm, JetBrains Fleet, Node.js, Express.js
 
 ---
@@ -34,8 +34,8 @@ Currently, I'm a proud member of **FRC Team 1811 FRESH**, where I'm the programm
 ---
 
 ### 🧑 About Me
-- Planning to study **Higher Education** at NJIT or Pitt.  
-- Career interests include **Software Development, Web Development, Software Engineering, Game Design, Robotics Engineering, and Mobile App Development**.  
+- Planning to study **Higher Education** at NJIT or UPitt.  
+- Career interests include **Software Development, and Chemistry Teacher**.  
 - **Birthday:** February 8 🎉  
 - **Favorite Artist:** Ariana Grande 🎶  
 - Proud member of the **LGBT community** 🏳️‍🌈  
