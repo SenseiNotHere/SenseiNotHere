@@ -52,6 +52,12 @@ I like turning wild ideas into working code and seeing them move IRL.
 
 <div align="center">
 
+# 💬 Favorite Quote  
+> “We don’t use kids to build robots. We use robots to build kids.”  
+> — **Dean Kamen**, Founder of FIRST 🤖💙  
+
+---
+
 # 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
