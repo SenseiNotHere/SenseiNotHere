@@ -28,8 +28,11 @@ I like turning wild ideas into working code and seeing them move IRL.
 - **[2025 FRC Robot Code](https://github.com/SenseiNotHere/2025Swerve)**  
   Full codebase for our competition robot: swerve drive, vision, automation, and all that good stuff.  
 
-- **FRC 1811 Website (Closed Source... for now)**  
-  Internal team site for announcements, crew info, and sponsor tools. (Frontend + backend by yours truly 👀)
+- **FRC 1811 Website (Closed Source)**  
+  Internal team site for announcements, crew info, and sponsor tools. (Frontend + Backend)
+
+- **FRC 1811 Admin Panel (Closed Source)**
+  Admin panel site for main website and team management. (Frontend + Backend)
 
 ---
 
