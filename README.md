@@ -44,8 +44,8 @@ I like turning wild ideas into working code and seeing them move IRL.
 ---
 
 ### 🧍‍♂️ About Me
-- Planning to study **CS + Education** (maybe at NJIT or UPitt)  
-- Career goals: **Software Dev / Chemistry Teacher hybrid** (yeah, weird combo but trust the process)  
+- Planning to study **Biochemistry + CS** (maybe at NJIT or UPitt)  
+- Career goals: **Chemistry Teacher / Software Dev** (yeah, weird combo but trust the process)  
 - **Birthday:** Feb 8 🎉  
 - **Fav Artist:** Ariana Grande 🎶  
 - Proudly part of the **LGBTQ+ community** 🏳️‍🌈  
