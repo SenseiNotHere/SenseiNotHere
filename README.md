@@ -28,7 +28,7 @@ I like turning wild ideas into working code and seeing them move IRL.
 - **[2025 FRC Robot Code](https://github.com/SenseiNotHere/2025Swerve)**  
   Full codebase for our competition robot: swerve drive, vision, automation, and all that good stuff.  
 
-- **[Kraken Swerve](https://github.com/SenseiNotHere/FRESH-Kraken)**
+- **[2026 Kraken Swerve](https://github.com/SenseiNotHere/FRESH-2026KrakenSwerve)**
   Code for our Kraken-powered drivetrain: X60s on drive, X44s on turn, all running on MK5n swerve modules.
 
 - **FRC 1811 Website (Closed Source)**  
