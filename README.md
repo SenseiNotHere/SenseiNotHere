@@ -85,11 +85,6 @@ I like turning wild ideas into working code and seeing them move IRL.
 
 ---
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=senseinothere&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
----
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
