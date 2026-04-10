@@ -5,7 +5,7 @@ I spend way too much time debugging, designing, and making stuff that probably s
 ---
 
 ### 🤖 Robotics & Tech Stuff
-Currently with **[FRC Team 1811 FRESH](https://frc1811.com)**; I’m the **Programming Captain**, building code that brings our robot (*Narwhal*) to life for the 2025 **REEFSCAPE** season.  
+Currently with **[FRC Team 1811 FRESH](https://frc1811.com)**; I’m the **Programming Captain**, building code that brings our robot (*Bobby*) to life for the 2026 **REBUILT** season.  
 I like turning wild ideas into working code and seeing them move IRL.
 
 ---
@@ -28,8 +28,11 @@ I like turning wild ideas into working code and seeing them move IRL.
 - **[2025 FRC Robot Code](https://github.com/SenseiNotHere/2025Swerve)**  
   Full codebase for our competition robot: swerve drive, vision, automation, and all that good stuff.  
 
-- **[2026 Kraken Swerve](https://github.com/SenseiNotHere/FRESH-2026KrakenSwerve)**
+- **[2026 FRC Robot Code](https://github.com/SenseiNotHere/FRESH-BBB2026)**
   Code for our Kraken-powered drivetrain: X60s on drive, X44s on turn, all running on MK5n swerve modules.
+
+- **[2027 FRESH Drivetrain](https://github.com/SenseiNotHere/FRESH2027)**
+  Code for our Kraken-powered drivetrain: X60s on drive, X44s on turn, all running on MK5n swerve modules. All refactored and made better from Bobby's code.
 
 - **FRC 1811 Website (Closed Source)**  
   Internal team site for announcements, crew info, and sponsor tools. (Frontend + Backend)
