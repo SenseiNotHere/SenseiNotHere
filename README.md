@@ -34,7 +34,7 @@ I like turning wild ideas into working code and seeing them move IRL.
 - **[2027 FRESH Drivetrain](https://github.com/SenseiNotHere/FRESH2027)**
   Code for our Kraken-powered drivetrain: X60s on drive, X44s on turn, all running on MK5n swerve modules. All refactored and made better from Bobby's code.
 
-- **[2027 Re-do of Bobby (2026)](https://github.com/SenseiNotHere/FRESH-Bobby2027)
+- **[2027 Re-do of Bobby (2026)](https://github.com/SenseiNotHere/FRESH-Bobby2027)**
   Re-do code of our 2026 REBUILT robot. Everything better, everything MUCH better.
 
 - **FRC 1811 Website (Closed Source)**  
