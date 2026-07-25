@@ -1,11 +1,11 @@
 # 👋 Hey, I'm Jonas Pains  
-High school student from **New Jersey (Class of 2026)**: programmer, builder, and lowkey obsessed with robots.  
+Biochem major at NJIT now, FRC alum turned coach, programmer, builder, and I still can't stop tinkering with robots.  
 I spend way too much time debugging, designing, and making stuff that probably shouldn’t work but somehow *does*.  
 
 ---
 
 ### 🤖 Robotics & Tech Stuff
-Currently with **[FRC Team 1811 FRESH](https://frc1811.com)**; I’m the **Programming Captain**, building code that brings our robot (*Bobby*) to life for the 2026 **REBUILT** season.  
+Coach for **[FRC Team 1811 FRESH](https://frc1811.com)** now, used to be Programming Captain. Season's over for now, so instead of grinding code myself I'm just showing the next crew the ropes.  
 I like turning wild ideas into working code and seeing them move IRL.
 
 ---
@@ -18,13 +18,12 @@ I like turning wild ideas into working code and seeing them move IRL.
 ---
 
 ### 🌱 Currently Learning
-- Advanced robotics & autonomous systems  
 - Full-stack web development (React, Node.js, Tailwind, Next.js)  
 - How to stop breaking my code after “minor” tweaks  
 
 ---
 
-### 💻 Projects
+### 💻 Past Projects
 - **[2025 FRC Robot Code](https://github.com/SenseiNotHere/2025Swerve)**  
   Full codebase for our competition robot: swerve drive, vision, automation, and all that good stuff.  
 
@@ -53,7 +52,7 @@ I like turning wild ideas into working code and seeing them move IRL.
 ---
 
 ### 🧍‍♂️ About Me
-- Planning to study **Biochemistry + CS** (maybe at NJIT or UPitt)  
+- Studying Biochem at NJIT, still figuring out the whole college thing  
 - Career goals: **Chemistry Teacher / Software Dev** (yeah, weird combo but trust the process)  
 - **Birthday:** Feb 8 🎉  
 - **Fav Artist:** Ariana Grande 🎶  
@@ -66,7 +65,7 @@ I like turning wild ideas into working code and seeing them move IRL.
 
 # 💬 Favorite Quote  
 > “We don’t use kids to build robots. We use robots to build kids.”  
-> — **Dean Kamen**, Founder of FIRST 🤖💙  
+> **Dean Kamen**, Founder of FIRST 🤖💙  
 
 ---
 
